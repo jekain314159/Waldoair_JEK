@@ -1,2 +1,2 @@
 # Waldoair_JEK
-This is a first repository for Jim Kain 
+This is a first repository for Jim Kain.
